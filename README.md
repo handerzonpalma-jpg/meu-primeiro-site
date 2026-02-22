@@ -1,4 +1,4 @@
-Minha Primeira Tarefa
+Minha Primeira Tarefa:
 
 🎯 Objetivo
 O objetivo deste repositório é armazenar meus primeiros passos do curso de programação.
